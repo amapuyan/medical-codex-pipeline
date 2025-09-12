@@ -47,5 +47,3 @@ df_polars_small.write_parquet('output/npi_small.parquet')
 
 
 
-
-

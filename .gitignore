@@ -17,3 +17,5 @@ venv/
 # IDE
 .vscode/
 .idea/
+
+#ignore snowmed due to size
