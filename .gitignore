@@ -20,3 +20,6 @@ venv/
 
 #ignore snowmed due to size
 output/sct2_Description_Full.csv
+
+# ignore Mac system files
+.DS_Store
