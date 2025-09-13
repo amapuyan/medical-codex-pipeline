@@ -19,3 +19,4 @@ venv/
 .idea/
 
 #ignore snowmed due to size
+output/sct2_Description_Full.csv
