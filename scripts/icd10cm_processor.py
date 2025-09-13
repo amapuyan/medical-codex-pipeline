@@ -34,8 +34,7 @@ codes.append({
 icdcodes = pd.DataFrame(codes)
 icdcodes.to_csv('output/icd10cm_codes.csv', index=False)
 
-
-
+# .csv output only has 2 rows 
 
 
 

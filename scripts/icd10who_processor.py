@@ -22,3 +22,5 @@ print(f"Successfully parsed {len(df)} records from {file_path}")
 print(f"Saved to {output_path}")
 print(f"\nFirst 5 rows:")
 print(df.head())
+
+# .csv output does not show data in first 2 columns
